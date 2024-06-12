@@ -1,0 +1,37 @@
+
+.header{
+    background: url("../src/assets/cyber-bg.png") no-repeat center center/cover;
+    
+
+}
+.recovery{
+    background: url("../src/assets/data-bg.png") no-repeat center center/cover;
+    
+
+}
+.cloud{
+    background: url("../src/assets/cloud-bg.png") no-repeat center center/cover;
+    
+
+}
+.footer{
+    background: url("../src/assets/footer-bg.jpg") no-repeat center center/cover;
+    
+    
+
+}
+.menu .active{
+    background-color: rgb(61, 61, 96);
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+.recover{
+  background: url("../src/assets/recovery-bg.png") no-repeat center center/cover;
+}
+.contact{
+  background: url("../src/assets/contact-bg.png") no-repeat center center/cover;
+}
+.login{
+  background: url("../src/assets/contact-bg.png") no-repeat center center/cover;
+}
